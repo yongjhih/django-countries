@@ -888,8 +888,8 @@ msgid "Syrian Arab Republic"
 msgstr "Syria"
 
 #: data.py:230
-msgid "Taiwan (Province of China)"
-msgstr "Taiwan (provins i Kina)"
+msgid "Taiwan"
+msgstr "Taiwan"
 
 #: data.py:231
 msgid "Tajikistan"
